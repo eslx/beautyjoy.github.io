@@ -41,7 +41,15 @@ body {
 }
 
 
-
+div.hr {
+	content: " ";
+	text-align: left;
+	display: block;
+	border: thin solid lightgray;
+	max-width: 100px;
+	margin-top: 15px;
+    margin-bottom: 15px;
+}
 
 
 /* navbar menu links */
